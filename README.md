@@ -37,7 +37,7 @@ Link del Proyecto: [https://github.com/iacosta/cert_azure_az900](https://github.
 ___
 # Agradecimientos
 Por su buena vibra y energia de Juan Manuel Calvo
-    * [Github Profile](https://github.com/jmanuelcalvo)
+* [Github Profile](https://github.com/jmanuelcalvo)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
