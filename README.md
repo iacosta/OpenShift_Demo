@@ -33,7 +33,7 @@ ___
 # Contacto
 Iván Acosta - [@iacostac](https://twitter.com/iacostac) - ivan@acostacontreras.com
 
-Link del Proyecto: [https://github.com/iacosta/cert_azure_az900](https://github.com/iacosta/OpenShift_Demo)
+Link del Proyecto: [https://github.com/iacosta/OpenShift_Demo](https://github.com/iacosta/OpenShift_Demo)
 ___
 # Agradecimientos
 Por su buena vibra y energia de Juan Manuel Calvo
