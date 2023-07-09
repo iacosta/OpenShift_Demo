@@ -36,7 +36,7 @@ Iván Acosta - [@iacostac](https://twitter.com/iacostac) - ivan@acostacontreras.
 Link del Proyecto: [https://github.com/iacosta/OpenShift_Demo](https://github.com/iacosta/OpenShift_Demo)
 ___
 # Agradecimientos
-Por su buena vibra y energia de [Juan Manuel Calvo] (https://github.com/jmanuelcalvo)
+Por su buena vibra y energia de [Juan Manuel Calvo](https://github.com/jmanuelcalvo)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
